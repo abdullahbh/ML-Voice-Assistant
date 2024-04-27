@@ -1,0 +1,5 @@
+https://drive.google.com/drive/folders/1NTBeSXA-K5fhP_B_WZGiYvyWTRv9fDYgjYRPKZlnceE4N3KEEzdbW--boDVJ1pw5iH8gjSVA
+
+- Link for Datasets
+- Any folder to be downloaded
+- Preprocessing must be done from .py/.ipynb file present in this folder
